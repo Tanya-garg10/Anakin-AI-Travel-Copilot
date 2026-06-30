@@ -1,0 +1,6 @@
+{
+  "name": "Anakin AI Travel Copilot",
+  "description": "An premium AI Travel Copilot built for the IBM Bob Challenge. Integrates IBM Bob, Granite, Docling, and LangFlow to build smarter, geo-optimized, and context-aware journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
