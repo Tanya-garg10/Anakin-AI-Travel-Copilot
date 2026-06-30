@@ -16,8 +16,6 @@ Anakin uses an elite multi-node orchestration architecture to group attractions 
 
 </div>
 
----
-
 ## 🎨 Visual Philosophy: Frosted Glass Slate
 
 The interface implements an immersive **Frosted Glass Slate** design language:
@@ -28,8 +26,6 @@ The interface implements an immersive **Frosted Glass Slate** design language:
 | **Luminous Mesh Accents** | Ambient cyan, blue & violet orbs floating in deep `#0A0A1A` space |
 | **Dynamic Chronology Rails** | Interactive milestones with zoom + GPS-optimized coordinate plotting |
 | **Smooth Animations** | Framer Motion transitions for every UI state change |
-
----
 
 ## 🚀 Key Innovation Highlights
 
@@ -61,8 +57,6 @@ Rate and comment on activities. Your feedback is persisted and directly influenc
 ### 8. 💾 Copilot Vault (Local Persistence)
 All planned trips are securely stored in browser localStorage. Reload, compare, or delete past adventures dynamically.
 
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -85,8 +79,6 @@ All planned trips are securely stored in browser localStorage. Reload, compare, 
 | **Docling Engine** | Raw ingestion for PDFs, images & unstructured text files |
 | **Context Forge** | Preserves historical context & tracks cumulative walking metrics |
 | **LangFlow** | Master node router orchestrating JSON and Markdown outputs |
-
----
 
 ## 📁 Project Structure
 
@@ -115,8 +107,6 @@ anakin/
 └── assets/
     └── .aistudio/
 ```
-
----
 
 ## ⚡ Quick Start
 
@@ -169,8 +159,6 @@ npm run build
 npm start
 ```
 
----
-
 ## 🔌 API Endpoints
 
 | Method | Endpoint | Description |
@@ -180,8 +168,6 @@ npm start
 | `POST` | `/api/itinerary/regenerate-day` | Hot-swap regenerate a single day with custom guidance |
 | `GET` | `/api/unsplash/image` | Fetch activity images (Wikipedia → Unsplash → curated fallbacks) |
 
----
-
 ## 🌐 Environment Variables
 
 | Variable | Required | Description |
@@ -189,8 +175,6 @@ npm start
 | `GEMINI_API_KEY` | ✅ | Google Gemini API key for AI-powered generation |
 | `APP_URL` | ❌ | Hosted URL (auto-injected in AI Studio) |
 | `UNSPLASH_ACCESS_KEY` | ❌ | Unsplash developer key for high-res activity images |
-
----
 
 ## 📜 Available Scripts
 
@@ -203,8 +187,6 @@ npm start
 | **Lint** | `npm run lint` | TypeScript type checking |
 | **Clean** | `npm run clean` | Remove build artifacts |
 
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -212,14 +194,6 @@ npm start
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
