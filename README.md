@@ -9,7 +9,6 @@
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#license)
 
 **A premium, context-aware full-stack travel planner built for the IBM Bob Challenge.**  
 Anakin uses an elite multi-node orchestration architecture to group attractions geographically, optimize budgets across multiple currencies, analyze unstructured brochures, and support dynamic single-day hot-swap revisions.
